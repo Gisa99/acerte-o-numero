@@ -10,7 +10,7 @@ Ao iniciar o jogo você deve falar o número escolhido e a aplicação verificar
 Ao falar "Game Over" o jogo será interrompido.
 Quando o número for acertado, você poderá clicar em "jogar novamente" ou simplesmente dar o comando de voz. 
 
-Você pode jogar clicando aqui: https://acerte-o-numero-ox7ouii2x-gisa99.vercel.app/
+Você pode jogar clicando aqui: https://acerte-o-numero-git-main-gisa99.vercel.app/
 
 :D
 
